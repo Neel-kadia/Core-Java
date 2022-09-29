@@ -3,7 +3,6 @@
 	COPYRIGHT (C) 2022 QDEV TECHNOLAB. All Rights Reserved.
 	@version 1.0.0
 */
-
 public class DoWhileExample{
 
 	public static void main(String[] args){
