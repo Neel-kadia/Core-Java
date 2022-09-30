@@ -1,5 +1,5 @@
 /**
- *	This programme is about to print star pattern using for loop.
+ *	This program is about to print star pattern using for loop.
  *	COPYRIGHT (C) 2022 QDEV TECHNOLAB. All rights reserved.
  *  @author Neel
  *	@version 1.0.0

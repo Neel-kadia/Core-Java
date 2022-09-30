@@ -1,5 +1,5 @@
 /**
- *   This programme is print to helloworld.
+ *   This program is print to helloworld.
  *   COPYRIGHT (C) 2022 QDEV TECHNOLAB.All Rights Reserved.
  *   @author Neel
  *   @version 1.0.0
