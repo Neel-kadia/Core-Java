@@ -1,7 +1,7 @@
 /**
- *   	This programme is print to helloworld.
+ *   This programme is print to helloworld.
  *   COPYRIGHT (C) 2022 QDEV TECHNOLAB.All Rights Reserved.
- *   	@author Neel
+ *   @author Neel
  *   @version 1.0.0
  */
 public class HelloWorld {
