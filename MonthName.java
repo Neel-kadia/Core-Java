@@ -1,11 +1,11 @@
 /**
- *	This programme is about checking the month name from the month number.
+ *		This programme is about checking the month name from the month number.
  *  If the month number is 9 then print the month name September.
- *	COPYRIGHT (C) 2022 QDEV TECHNOLAB. All Rights Reserved.
+ *		COPYRIGHT (C) 2022 QDEV TECHNOLAB. All Rights Reserved.
  *  @author Neel
- *	@version 1.0.0
+ *		@version 1.0.0
  */
-public class MonthName{
+public class MonthName {
 
 	public static void main(String[] args) {
 		int monthNumber = 9; // Initialize the month number to check the month name.

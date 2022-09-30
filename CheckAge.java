@@ -1,11 +1,11 @@
 /**
- *	This programme is about checking your age.
+ *		This programme is about checking your age.
  *	If your age is less than 10 years then print the text "Your age is less than 10 years".
- *	If your age is greater than 10 and less than or equals to 25 then print the text "Your age is between 10 to 25 years".
+ *		If your age is greater than 10 and less than or equals to 25 then print the text "Your age is between 10 to 25 years".
  *	If your age is greater than 25 and less than 50 then print the text "Your age is between 26 to 50 years".
- *	@author Neel
+ *		@author Neel
  *	COPYRIGHT (C) 2022 QDEV TECHNOLAB. All rights reserved.
- *	@version 1.0.0
+ *		@version 1.0.0
  */
 public class CheckAge{
 

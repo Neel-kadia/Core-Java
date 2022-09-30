@@ -1,7 +1,7 @@
 /**
- *	This Programme is About to Print 1 to 10 Numbers using While Loop.
+ *		This Programme is About to Print 1 to 10 Numbers using While Loop.
  *	COPYRIGHT (C) 2022 QDEV TECHNOLAB. All Rights Reserved.
- *  @author Neel
+ *  	@author Neel
  *	@version 1.0.0
  */
 
