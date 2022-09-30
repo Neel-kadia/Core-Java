@@ -6,7 +6,7 @@
 public class CheckAge{
 
 	public static void main(String[] args){
-		int age = 26;    // Initialize Your Age
+		int age = 23;    // Initialize Your Age
 		if(age < 10){
 			System.out.println("Your Age Is Less Than 10 Years.");
 		}
