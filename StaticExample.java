@@ -30,15 +30,15 @@ class Student {
 public class StaticExample {
 
 	public static void main(String[] args) {
-		Student s = new Student(101, "Rahul");
-		s.display();
-		Student s1 = new Student(102, "raj");
-		s1.display();
+		Student studentObj = new Student(101, "Rahul");
+		studentObj.display();
+		Student student1Obj = new Student(102, "raj");
+		student1Obj.display();
 		Student.change(); //called static method without creating an object of student class.
-		Student s2 = new Student(103, "Rahi");
-		s2.display();
-		Student s3 = new Student(104, "Rom");
-		s3.display();
+		Student student2Obj = new Student(103, "Rahi");
+		student2Obj.display();
+		Student student3Obj = new Student(104, "Rom");
+		student3Obj.display();
 	}
 
 }

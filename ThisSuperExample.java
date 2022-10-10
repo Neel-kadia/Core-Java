@@ -14,6 +14,7 @@ class Animal {
 	}
 
 }
+
 class Dog extends Animal {
 
 	String color = "white";
@@ -28,11 +29,12 @@ class Dog extends Animal {
 	}
 
 }
+
 class ThisSuperExample {
 
 	public static void main(String[] args) {
-		Dog d = new Dog();
-		d.work();
+		Dog dogObj = new Dog();
+		dogObj.work();
 	}
 
 }

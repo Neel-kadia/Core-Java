@@ -17,6 +17,7 @@ abstract class Bike {
 	}
 
 }
+
 class Honda extends Bike {
 
 	void run() {
@@ -24,6 +25,7 @@ class Honda extends Bike {
 	}
 
 }
+
 public class AbstractExample{
 
 	public static void main(String[] args) {

@@ -21,9 +21,9 @@ class Dog extends Animal { //sub class or child class
 public class SingleInheritance {
 
 	public static void main(String[] args) {
-		Dog d = new Dog(); //created object of dog class 
-		d.bark(); // called bark method using object of dog class
-		d.eat(); // called eat method using object of dog class
+		Dog dogObj = new Dog(); //created object of dog class 
+		dogObj.bark(); // called bark method using object of dog class
+		dogObj.eat(); // called eat method using object of dog class
 	}
 
 }

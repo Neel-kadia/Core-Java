@@ -14,6 +14,7 @@ class EmiCalculation {
 	}
 
 }
+
 class Emi {
 
 	public static void main(String[] args) {
@@ -30,8 +31,8 @@ class Emi {
 		time = sc.nextFloat(); //Getting time from the user 
 		rate = rate / (12 * 100);
 		time = time * 12;
-		EmiCalculation e = new EmiCalculation(principal,rate,time); //called parameterized constructor
-		System.out.println("Emi is = " + e.emi);
+		EmiCalculation emiObj = new EmiCalculation(principal,rate,time); //called parameterized constructor
+		System.out.println("Emi is = " + emiObj.emi);
 	}
 
 }

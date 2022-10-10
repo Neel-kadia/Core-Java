@@ -11,6 +11,7 @@ class Animal {
 	}
 	
 }
+
 class Dog extends Animal {
 
 	void bark() {
@@ -18,6 +19,7 @@ class Dog extends Animal {
 	}
 
 }
+
 class BabyDog extends Dog {
 
 	void weep() {
@@ -25,13 +27,14 @@ class BabyDog extends Dog {
 	}
 
 }
+
 public class MultilevelInheritance {
 
 	public static void main(String[] args) {
-		BabyDog b = new BabyDog();
-		b.weep();
-		b.bark();
-		b.eat();
+		BabyDog babyDogObj = new BabyDog();
+		babyDogObj.weep();
+		babyDogObj.bark();
+		babyDogObj.eat();
 	}
 
 }
