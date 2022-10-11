@@ -3,8 +3,8 @@
  *	static variable: static variable gets memory only once in the class area at the time of class loading. 
  *	static method: static method invoked without creating an instance of a class.
  *	static block: executed before the main method at the time of class loading.
- *  COPYRIGHT (C) 2022 QDEV TECHNOLAB. All rights reserved.
- *  @author Neel
+ *	COPYRIGHT (C) 2022 QDEV TECHNOLAB. All rights reserved.
+ *	@author Neel
  *	@version 1.0.0
  */
 class Student {

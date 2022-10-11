@@ -1,7 +1,7 @@
 /**
  *	This program is about to print star pattern using for loop.
  *	COPYRIGHT (C) 2022 QDEV TECHNOLAB. All rights reserved.
- *  @author Neel
+ *	@author Neel
  *	@version 1.0.0
  */
 public class ForLoopExample {

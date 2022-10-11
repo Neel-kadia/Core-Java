@@ -1,8 +1,8 @@
 /**
  *	This program is about string methods
  *	like charAt(), length(), substring(), equals(), isEmpty(), concat(), replace(), toUpperCase(), toLowerCase(),trim().
- *  COPYRIGHT (C) 2022 QDEV TECHNOLAB. All rights reserved.
- *  @author Neel
+ *	COPYRIGHT (C) 2022 QDEV TECHNOLAB. All rights reserved.
+ *	@author Neel
  *	@version 1.0.0
  */
 class StringExample {

@@ -1,7 +1,7 @@
 /**
  *	This program demonstrates hierarchical inheritance.
- *  COPYRIGHT (C) 2022 QDEV TECHNOLAB. All rights reserved.
- *  @author Neel
+ *	COPYRIGHT (C) 2022 QDEV TECHNOLAB. All rights reserved.
+ *	@author Neel
  *	@version 1.0.0
  */
 class Animal {

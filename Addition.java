@@ -9,8 +9,8 @@ class Add {
 
 	int number3;
 	// Created parameterized constructor.
-	Add(int a, int b) {
-		number3 = a + b; 
+	Add(int number1, int number2) {
+		number3 = number1 + number2; 
 	}
 	void display() {
 		System.out.println(number3);
@@ -21,8 +21,8 @@ class Add {
 public class Addition {
 
 	public static void main(String[] args) {
-		Add a1 = new Add(10, 20); // The constructor is invoked while creating an object of the Add class.
-		a1.display();
+		Add addObj = new Add(10, 20); // The constructor is invoked while creating an object of the Add class.
+		addObj.display();
 	}
 
 }

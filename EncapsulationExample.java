@@ -2,8 +2,8 @@
  *	This program demonstrates encapsulation.
  *	Encapsulation is a way to achieve data hiding.
  *	setting values through the setter method and getting values through the getter method.
- *  COPYRIGHT (C) 2022 QDEV TECHNOLAB. All rights reserved.
- *  @author Neel
+ *	COPYRIGHT (C) 2022 QDEV TECHNOLAB. All rights reserved.
+ *	@author Neel
  *	@version 1.0.0
  */
 class Account {

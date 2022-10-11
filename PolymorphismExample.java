@@ -7,17 +7,17 @@
  */
 class Test {
 
-	public int add(int a, int b) { //(integer) return type method with two (integer type) parameters
-		return a + b;
+	public int add(int number1, int number2) { //(integer) return type method with two (integer type) parameters
+		return number1 + number2;
 	}
-	public double add(double a, double b) { //(double) return type method with two (double type) parameters
-		return a + b;
+	public double add(double number1, double number2) { //(double) return type method with two (double type) parameters
+		return number1 + number2;
 	}
-	public int add(int a, int b, int c) { //(integer) return type method with three (integer type) parameters
-		return a + b + c;
+	public int add(int number1, int number2, int number3) { //(integer) return type method with three (integer type) parameters
+		return number1 + number2 + number3;
 	}
-	public double add(double a) { //double return type method with single (double type) parameter
-		return a + a;
+	public double add(double number1) { //double return type method with single (double type) parameter
+		return number1 + number1;
 	}
 
 }

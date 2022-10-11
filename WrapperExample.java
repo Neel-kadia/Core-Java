@@ -2,8 +2,8 @@
  *	This program is about wrapper class.
  *	To Convert primitives into objects.
  *	To convert objects to primitives.
- *  COPYRIGHT (C) 2022 QDEV TECHNOLAB. All rights reserved.
- *  @author Neel
+ *	COPYRIGHT (C) 2022 QDEV TECHNOLAB. All rights reserved.
+ *	@author Neel
  *	@version 1.0.0
  */
 class WrapperExample {

@@ -10,7 +10,7 @@
 public class BreakExample {
 
 	public static void main(String[] args) {
-		for(int a=1; a<=10; a++) {
+		for(int a = 1; a <= 10; a++) {
 			if(a == 4) {
 				continue; // if value of a is equal to 4 then continue the program 
 			}

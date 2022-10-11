@@ -2,8 +2,8 @@
  *	This program is about this and super keywords.
  *	This keyword is used to call the current(child) class method, instance variable, and constructor.
  *	super keyword used to call immediate parent class method, instance variable, and constructor.
- *  COPYRIGHT (C) 2022 QDEV TECHNOLAB. All rights reserved.
- *  @author Neel
+ *	COPYRIGHT (C) 2022 QDEV TECHNOLAB. All rights reserved.
+ *	@author Neel
  *	@version 1.0.0
  */
 class Animal {
