@@ -18,8 +18,8 @@ public class Collection2 {
 			System.out.println(m.getKey() + " " + m.getValue());
 		}
 
-        String name = map.get(101);
-        System.out.println("The name of id 101 is:- " + name);
+		String name = map.get(101);
+		System.out.println("The name of id 101 is:- " + name);
 	}
 
 }
